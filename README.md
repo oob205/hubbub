@@ -1,5 +1,6 @@
 Hubbub
 ======
+By Ope Bukola
 
 Issues get messy, Hubbub keeps you organized.
 
